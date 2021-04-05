@@ -14,7 +14,7 @@ Pontus Falk ([sm0rux](https://github.com/sm0rux/))
 
 Are you a git/GitHub newbie like I am? Feel free to fork this repo and
 hopefully we can learn together. Why not start to add your name to the
-[Contributors.md](https://github.com/sm0rux/sm0rux.github.io/blob/master/Contributors.md)
+[Contributors.md](https://github.com/sm0rux/sm0rux.github.io/blob/main/Contributors.md)
 file?
 
 ## Copyright
@@ -72,10 +72,10 @@ cd ~/GitHub/feel-free-to-fork
 ```
 and then pull the files using the command
 ```
-git pull origin master
+git pull origin main
 ```
 
-The main branch of my repository is `master` but this could be something else
+The main branch of my repository is `main` but this could be something else
 for other branches. If the main branch is `source` then download the files
 using the command
 ```
@@ -139,12 +139,12 @@ your files incorporated in the main repository (in this repository).
 
 Before making more contributions, be sure to have your fork up to date with
 the main repository. This is done by giving the commands `git pull upstream
-master` followed by the command `git push origin master`.
+main` followed by the command `git push origin main`.
 
 ### In case your repository is the main repository
 
 As mentioned in 3a above you don't have an upstream link if your repository is
-the main repository. Instead you give the commands `git pull origin master` to
+the main repository. Instead you give the commands `git pull origin main` to
 keep your local files up to date.
 
 Then you can start the new contribution by following step 5-10 above.

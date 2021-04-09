@@ -2,9 +2,9 @@ Pages: [home](https://sm0rux.github.io/) - [git](https://sm0rux.github.io/git.ht
 
 # Mina kodpluggar till Anytone 878 och Anytone 578
 
-Senaste release: 
-878 [2021-04-09](https://github.com/sm0rux/at-d878uv/releases) - ladda hem som [.ZIP-fil](https://github.com/sm0rux/at-d878uv/archive/2021-04-09.zip).
-578 [2021-04-09](https://github.com/sm0rux/at-d578uv/releases) - ladda hem som [.ZIP-fil](https://github.com/sm0rux/at-d578uv/archive/2021-04-09.zip).
+Senaste release:
+* 878 [2021-04-09](https://github.com/sm0rux/at-d878uv/releases) - ladda hem som [.ZIP-fil](https://github.com/sm0rux/at-d878uv/archive/2021-04-09.zip).
+* 578 [2021-04-09](https://github.com/sm0rux/at-d578uv/releases) - ladda hem som [.ZIP-fil](https://github.com/sm0rux/at-d578uv/archive/2021-04-09.zip).
 
 ## Licens
 

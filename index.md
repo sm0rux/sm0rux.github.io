@@ -9,11 +9,11 @@ when communicating with my friend.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working at a hotel in Stockholm
-🌱 I’m currently learning more about Digital Mobile Radio
-🤔 I’m looking for help with my [Anytone 878 code plug](https://github.com/sm0rux/at-d878uv) and my [Anytone 578 code plug](https://github.com/sm0rux/at-d578uv)
-📫 How to reach me: [e-mail](mailto:pfalk@ax25.org)
-😄 Pronouns: he/him
+- 🔭 I’m currently working at a hotel in Stockholm
+- 🌱 I’m currently learning more about Digital Mobile Radio
+- 🤔 I’m looking for help with my [Anytone 878 code plug](https://github.com/sm0rux/at-d878uv) and my [Anytone 578 code plug](https://github.com/sm0rux/at-d578uv)
+- 📫 How to reach me: [e-mail](mailto:pfalk@ax25.org)
+- 😄 Pronouns: he/him
 
 == My projects on GitHub
 

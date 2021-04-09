@@ -26,4 +26,8 @@ You find more info about the code plugs [here](https://sm0rux.github.io/anytone.
 
 === A simple GitHub tutorial
 
-[Here](https://sm0rux.github.io/git.html) you find a very simple and easy to follow GitHub tutorial.
+[Here](https://sm0rux.github.io/git.html) you find a very simple and easy-to-follow GitHub tutorial.
+
+== Why I publish my projects?
+
+I truly believe in free and libre open source software. Files I would create for myself I publish and if just one of you out there find my files usefull I'm very happy!
